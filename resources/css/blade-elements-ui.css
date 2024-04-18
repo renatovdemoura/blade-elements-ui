@@ -1,0 +1,7 @@
+.tippy-box{
+    @apply px-1 rounded-full;
+}
+
+.tippy-content{
+    @apply text-sm leading-5 text-white;
+}
