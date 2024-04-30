@@ -1,5 +1,5 @@
 {
-    "name": "renatovdemoura/blade-elements-ui",
+    "name": "eduzz/alpaclass-blade-elements-ui",
     "description": "Laravel Blade components using TALL stack.",
     "keywords": ["laravel", "tailwind", "blade", "tall stack", "alpinejs", "livewire"],
     "type": "library",
