@@ -16,7 +16,7 @@
     },
     "autoload": {
         "files": [
-            "src/helpers.php"
+            "./src/helpers.php"
         ],
         "psr-4": {
             "DanPalmieri\\BladeElementsUi\\": "src"
